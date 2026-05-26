@@ -1,0 +1,2 @@
+Question 1: What is Java?
+Question 2: Explain OOP concepts.
