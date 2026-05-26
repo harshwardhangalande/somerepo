@@ -1,0 +1,2 @@
+Question 1: What is Java? (5 marks)
+Question 2: Explain OOP. (10 marks)
